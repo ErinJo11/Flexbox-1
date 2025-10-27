@@ -4,3 +4,45 @@
     margin: auto;
 }
 
+.top-header{
+    margin-bottom: 10px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+   padding: 10px;
+
+}
+
+.nav-list{
+    padding: 10px;
+    margin: 10px;
+}
+
+.sidebar{
+    background-color: pink;
+   display: block;
+   padding: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.main{
+    background-color: lightgrey;
+    padding: 20px;
+    display: block
+}
+
+.socials{
+    padding: 20px;
+    margin: 0;
+   
+}
+
+footer{
+    background-color: aquamarine;
+}
+
